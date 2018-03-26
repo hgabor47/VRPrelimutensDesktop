@@ -1,6 +1,6 @@
-[submodule "vrpd_windows"]
-	path = vrpd_windows
-	url = https://gitlab.com/vrprelimutensdesktop/vrpd_windows.git
 [submodule "vrpd_android"]
 	path = vrpd_android
-	url = https://gitlab.com/vrprelimutensdesktop/vrpd_android.git
+	url = ../vrpd_android.git
+[submodule "vrpd_windows"]
+	path = vrpd_windows
+	url = ../vrpd_windows.git
