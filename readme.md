@@ -1,3 +1,3 @@
 VR Prelimutens Desktop
-Andorid
+Android
 Windows
