@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputController", "..\vrpd_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageBuffer", "..\vrpd_windows\bms_imagebuffer\ImageBuffer.csproj", "{376F9009-C925-4040-8452-06D8C003001D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRPrelimutensDesktopGUI", "..\vrpd_windows\VRPrelimutensDesktopGUI\VRPrelimutensDesktopGUI.csproj", "{11FE2494-8F12-486B-881A-E4525C295289}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{376F9009-C925-4040-8452-06D8C003001D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{376F9009-C925-4040-8452-06D8C003001D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{376F9009-C925-4040-8452-06D8C003001D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11FE2494-8F12-486B-881A-E4525C295289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FE2494-8F12-486B-881A-E4525C295289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FE2494-8F12-486B-881A-E4525C295289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FE2494-8F12-486B-881A-E4525C295289}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
