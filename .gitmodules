@@ -1,3 +1,6 @@
 [submodule "vrpd_android"]
 	path = vrpd_android
 	url = https://github.com/hgabor47/vrpd_android.git
+[submodule "vrpd_windows"]
+	path = vrpd_windows
+	url = https://github.com/hgabor47/vrpd_windows.git
