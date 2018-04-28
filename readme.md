@@ -1,5 +1,5 @@
-![VRPDlogo](http://babylonms.com/babylonms/en/projects/vrpdesktop/media/vrpdicon.png "VR Prelimutens Desktop")
-![VRPDWebsite](http://babylonms.com/babylonms/en/projects/vrpdesktop/index.html "on WEB")
+[![VRPDlogo](http://babylonms.com/babylonms/en/projects/vrpdesktop/media/vrpdicon.png "VR Prelimutens Desktop")
+](http://babylonms.com/babylonms/en/projects/vrpdesktop/index.html "on WEB")
 VR Prelimutens Desktop
 ======================
 
