@@ -6,8 +6,8 @@ Primarily, this application provides help with your work. Develop together while
 
 ### Integral parts of the VRPrelimutensDesktop
 
--VRPD Android https://github.com/hgabor47/vrpd_android
--VRPD Windows https://github.com/hgabor47/vrpd_windows
+* VRPD Android https://github.com/hgabor47/vrpd_android
+* VRPD Windows https://github.com/hgabor47/vrpd_windows
 
 ## If you would like to use only (try) download binaries and enjoy
 http://babylonms.com/babylonms/en/projects/vrpdesktop/index.html
@@ -24,6 +24,11 @@ http://babylonms.com/babylonms/en/projects/vrpdesktop/index.html
 ### Website
 http://babylonms.com/babylonms/en/projects/vrpdesktop/index.html
 
+
+## Authors
+
+* **Gabor Horvath** - *Initial work* - [BabylonMessageSwap](https://github.com/hgabor47/babylonms)
+                                       [VRPrelimutensDesktop](https://github.com/hgabor47/VRPrelimutensDesktop)
 
 
 
