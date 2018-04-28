@@ -1,5 +1,7 @@
 ![VRPDlogo](http://babylonms.com/babylonms/en/projects/vrpdesktop/media/vrpdicon.png "VR Prelimutens Desktop")
-**VR Prelimutens Desktop**
+
+VR Prelimutens Desktop
+======================
 
 With VR Prelimutens Desktop begins a new era. You can place your windows in a limitless and free space. You can use any OS’es, even more than one at the same time. Arrange different computers’ windows in a single 3D place. 
 You can use same place simultaneously with others, see their avatars and what they are doing at the moment. 
